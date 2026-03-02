@@ -24,7 +24,6 @@
 ### 🔭 What I'm currently building
 * 🎲 Developing a digital **companion app** focused on mechanics, bestiaries, and interactive rules for board games.
 * 🔫 Creating a **CS2 match tracker** focused on generating player cards and analyzing historical data.
-* 📱 Exploring the mobile ecosystem by exporting native web applications using **Capacitor and Android Studio**.
 
 <br>
 
